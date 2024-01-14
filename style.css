@@ -462,3 +462,15 @@ body{
     width: 25px;
     filter:brightness(0) invert(1);
 }
+
+.attribution{
+  font-size:12px ;
+  text-align: center;
+  align-content: flex-end;
+  color: white;
+  background-color: hsl(192, 100%, 9%) ;
+}
+
+.attribution a{
+    color:hsla(215, 52%, 70%, 0.846);
+}
